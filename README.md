@@ -23,4 +23,13 @@ Criando um plano de estudos para frontend com GitHub simplificando para quem gos
 ## Metas do mês de Julho:
 - [ ] curso Introdução a criação de Websites com HTML 5 e CSS3 [6] (22/07/2023)
 - [ ] Programação para Internet com HTML 5 e CSS3 [6h] (27/07/2023)
-- [ ] Construíndo Páginas para Internet com Bootstrap [4] (30/07/2023)
+- [ ] Construíndo Páginas para Internet com Bootstrap [4] (30/07/2023) 
+
+## Tasks para maximar o aprendizado
+- [ ] Começar a estudar front
+- [ ] Assistir aos cursos
+- [ ] Fazer anotações
+- [ ] Tirar dúvidas
+- [ ] Done :sparkler:  
+
+<! -- This content will not appear in the rendered Markdown -->
