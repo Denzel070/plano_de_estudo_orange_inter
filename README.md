@@ -32,4 +32,4 @@ Criando um plano de estudos para frontend com GitHub simplificando para quem gos
 - [ ] Tirar dúvidas
 - [ ] Done :sparkler:  
 
-<! -- This content will not appear in the rendered Markdown -->
+<! -- This content will not appear in the rendered Markdown --->
